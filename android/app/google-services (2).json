@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50019966109",
+    "project_id": "bus-payment-2",
+    "storage_bucket": "bus-payment-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50019966109:android:3366dbc2b4c44ce720c874",
+        "android_client_info": {
+          "package_name": "com.example.bus_payment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAH-1KyDQu95-H8lWQiAlr8QNtmPymZ4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
